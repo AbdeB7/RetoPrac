@@ -1,0 +1,15 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "CineUsurbil/lib/javafx.base.jar",
+        "CineUsurbil/lib/javafx.controls.jar",
+        "CineUsurbil/lib/javafx.fxml.jar",
+        "CineUsurbil/lib/javafx.graphics.jar",
+        "CineUsurbil/lib/javafx.media.jar",
+        "CineUsurbil/lib/javafx.swing.jar",
+        "CineUsurbil/lib/javafx.web.jar",
+        "CineUsurbil/lib/javafx-swt.jar",
+        "g:\\Mi unidad\\Ciclo Superior DAW\\Programación\\Programación evaluación 2\\BasesPrueba\\Prueba\\lib\\mysql-connector-j-8.2.0.jar"
+    ],
+    "liveServer.settings.port": 5501
+}
